@@ -1,4 +1,4 @@
-# UFABC - Disciplina: CCM-107 - TÓPICOS EM INTELIGÊNCIA ARTIFICIAL 2024.1
+# UFABC - Disciplina: CCM-107 - Tópicos em Inteligência Artificial 2024.1
 
 ## Regressão Simbólica
 
@@ -23,7 +23,7 @@ Pode instalar usando o comando abaixo na raiz do projeto
 
 Para utilizar, basta abrir o notebook no [COLAB](https://colab.research.google.com/) do Google ou no [Jupyter](https://jupyter.org/install), ou no [VSCode](https://code.visualstudio.com/), onde preferir, e depois executar as células do Notebook
 
-==========================
+---
 
 ## Symbolic Regression
 
