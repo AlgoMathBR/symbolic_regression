@@ -1,4 +1,6 @@
-# Regressão Simbólica
+# UFABC - Disciplina: CCM-107 - TÓPICOS EM INTELIGÊNCIA ARTIFICIAL 2024.1
+
+## Regressão Simbólica
 
 Nesse projeto estou utilizando Regressão Simbólica para encontrar a complexidade assintótica dos algoritmos.
 
@@ -8,7 +10,7 @@ O motivo dessa escolha foi porque os algoritmos possuem entradas diferentes, alg
 
 O `y -> saída` dos algoritmos foi encontrado usando o *Método de Contagem de Frequencia* onde é contado quantas vezes cada linha do algoritmo foi chamada, e por fim soma-se essa contagem.
 
-## Instalação
+### Instalação
 
 >pip install numpy
 
@@ -23,7 +25,7 @@ Para utilizar, basta abrir o notebook no [COLAB](https://colab.research.google.c
 
 ==========================
 
-# Symbolic Regression
+## Symbolic Regression
 
 In this project, I'm using Symbolic Regression to find the asymptotic complexity of algorithms.
 
@@ -33,7 +35,7 @@ The reason for this choice is because algorithms have different inputs; some rec
 
 The `y -> output` of the algorithms was found using the Frequency Counting Method, where it counts how many times each line of the algorithm was called, and finally adds up this count.
 
-# Installation
+### Installation
 
 >pip install numpy
 
