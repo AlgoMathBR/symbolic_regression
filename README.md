@@ -10,6 +10,12 @@ O motivo dessa escolha foi porque os algoritmos possuem entradas diferentes, alg
 
 O `y -> saída` dos algoritmos foi encontrado usando o *Método de Contagem de Frequencia* onde é contado quantas vezes cada linha do algoritmo foi chamada, e por fim soma-se essa contagem.
 
+Para executar todos os algoritmos diversas vezes e podendo escolher quantas repetições internas ele deverá fazer, pode executar o arquivo `symbolic_regression_bash.py`.
+
+E para visualizar pode executar o arquivo `results.py`.
+
+E para visualizar os melhores resultados dentre os dados, pode executar o arquivo `best_results.py`.
+
 ### Instalação
 
 >pip install numpy
@@ -34,6 +40,12 @@ Each algorithm will have its own `notebook - ipynb` because this way the code be
 The reason for this choice is because algorithms have different inputs; some receive arrays, others receive strings, others receive numbers, etc. Besides, they can receive different numbers of variables, like 2 arrays or 2 strings.
 
 The `y -> output` of the algorithms was found using the Frequency Counting Method, where it counts how many times each line of the algorithm was called, and finally adds up this count.
+
+To run all the algorithms multiple times and choose how many internal repetitions it should perform, you can execute the file `symbolic_regression_bash.py`.
+
+And to view, you can execute the file ``results.py`.
+
+And to view the best results among the data, you can execute the file `best_results.py`.
 
 ### Installation
 
