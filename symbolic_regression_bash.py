@@ -547,11 +547,11 @@ def carregar_dados(arquivo, algorithm_name):
             print('├─', item)
         print('==========================')
 
-#algorithm_function = [binary_search, boyer_moore, bubblesort, heapsort, insertion_sort, iter_merge_sort, quicksort, selection_sort, shellsort, fibonacci_interative, fibonacci_recursive, tower_hanoi, karatsuba, levenshtein_distance, linear_search, multiply_matrix_strassen]
-#algorithm_name = ['binary_search', 'boyer_moore', 'bubblesort', 'heapsort', 'insertion_sort', 'iter_merge_sort', 'quicksort', 'selection_sort', 'shellsort', 'fibonacci_interative', 'fibonacci_recursive', 'tower_hanoi', 'karatsuba', 'levenshtein_distance', 'linear_search', 'multiply_matrix_strassen']
+algorithm_function = [binary_search, boyer_moore, bubblesort, heapsort, insertion_sort, iter_merge_sort, quicksort, selection_sort, shellsort, fibonacci_interative, fibonacci_recursive, tower_hanoi, karatsuba, levenshtein_distance, linear_search, multiply_matrix_strassen]
+algorithm_name = ['binary_search', 'boyer_moore', 'bubblesort', 'heapsort', 'insertion_sort', 'iter_merge_sort', 'quicksort', 'selection_sort', 'shellsort', 'fibonacci_interative', 'fibonacci_recursive', 'tower_hanoi', 'karatsuba', 'levenshtein_distance', 'linear_search', 'multiply_matrix_strassen']
 
-algorithm_function = [selection_sort, shellsort, fibonacci_interative, fibonacci_recursive, tower_hanoi, karatsuba, levenshtein_distance, linear_search, multiply_matrix_strassen]
-algorithm_name = ['selection_sort', 'shellsort', 'fibonacci_interative', 'fibonacci_recursive', 'tower_hanoi', 'karatsuba', 'levenshtein_distance', 'linear_search', 'multiply_matrix_strassen']
+#algorithm_function = [selection_sort, shellsort, fibonacci_interative, fibonacci_recursive, tower_hanoi, karatsuba, levenshtein_distance, linear_search, multiply_matrix_strassen]
+#algorithm_name = ['selection_sort', 'shellsort', 'fibonacci_interative', 'fibonacci_recursive', 'tower_hanoi', 'karatsuba', 'levenshtein_distance', 'linear_search', 'multiply_matrix_strassen']
 
 
 start_end = {
